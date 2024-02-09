@@ -1,4 +1,4 @@
-package LambdaConcept;
+package Predicate;
 
 import java.util.function.*;
 
